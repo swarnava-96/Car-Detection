@@ -1,6 +1,6 @@
 # Car-Detection
 
-### Goal: The goal of this project is to detect cars on road using OpenCV and Haar Cascade classifier form live cctv footage.
+### Goal: The goal of this mini project is to detect cars on a road recorded from a cctv footage using OpenCV and Haar Cascade Classifier.
 
 ### Brief Description:
 I have used OpenCV and Haarcascade classifier in this project. 
